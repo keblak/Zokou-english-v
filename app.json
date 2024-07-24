@@ -24,7 +24,7 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "PM_PERMIT": {
@@ -57,7 +57,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0VuRkVZMVl0Ykxqb1lHV1hWZUhSdDMzcnZqcm9GNmNCOHh5bkFCdVozZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSm1ES2pVaVJHOGZGaE0veGRJK09OMTlMQllqQ2Z0aGNmZVhEZXBvM3kwRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFS0hqUTBMUXhFbDUzbzVMZ05rak1xcForN0NlOUUremxraEZURlJMV2tFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI5enhUYTdMaDBxWFcyZldoQVdKL1pCT3VqbHZidngyNkxZaUxCd1BwSmh3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNDb1RTZ3JUMjU2VlNETVoyb1hIcWJlZXpHNnRCcSt4TzdFYW9ESERLR2s9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ild3RStyNzljL3dFZzJ4S0ZKZy91aUZhN0EzSGpMRkQzWWJsd2FIV0JJaGs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEJiOEVXYWh5MjlSRnl6N09BdUFPdHBrU3YxZTVRUUZYK2wxZDZlVytsND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOFU0bkZpSWMzRE51eDA3eHJiR2dyZmEvSVZUM2t5THJYeVkxMzlndDBtVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxudnZiWUx4VFF5L1ZJbVdDMTBodXNkb3ZoZDBzSEJtV2thdG5ZT3AwZXp2V056U2tDeXAyTDdyRzh5UXpXUGtZMS9TazR3WlJIeGNUSENBbGQ1cGdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MywiYWR2U2VjcmV0S2V5IjoiMlJlK1hoL0g0ZngyaW5tc1VTYkZTUE1YRlRSVHdqaCtTbC9TRk5UeTJKUT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOlt7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTQ3OTc4MDQ3ODVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiMUE0RUFEODY4QzRFM0VBQzhFODhEOTQ1OTA5NEI0NTcifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMTg0ODIzNH1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoidWdDQ0N3a2VUcW1hd0pjVmZuTlNXUSIsInBob25lSWQiOiI4ZGU1OGMxNS00NzY4LTQyYTAtODkxOC04Mzc4OWM5NGVmYzgiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZkZTR2hCc2tOT1FhYnpEY2ZlTzRzSys5WUNNPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRlU3lpQlVZQUNad0RURksrQmFqNE5BRWhqZz0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiI0UDRGUVpUSiIsImxhc3RQcm9wSGFzaCI6IjJGOXl4eiIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FJSUJRPT0ifSwibWUiOnsiaWQiOiIyNTQ3OTc4MDQ3ODU6MTJAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiWUFSQUEgU0FNU09OIiwibGlkIjoiMTYwNjQ5NDc2ODcwMjY4OjEyQGxpZCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTm5WNDc0REVKNmpoYlVHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiOFI0Ly9HenVENmpSRmczN1JHRFhvRzZGb3hPd0VNdlRtakJkaXdtOGV6OD0iLCJhY2NvdW50U2lnbmF0dXJlIjoiUDJoVXBhakpvNEZjakdVNFNTd1JCTWlkSlpnd2U4SjNJdHNCQXBxQ3hEMHNFa2p5T0NGT0Z2Y3JrNW1Tb2hPazVuSEdQUW84em5OcGVuem5maEtIREE9PSIsImRldmljZVNpZ25hdHVyZSI6IkxuaGY3TklKSDFvSnlFSHNNWGtDcnI5cXZRV2ZJR2gvRDRQZHhzQ24zVU1FWEpGVVNqbEZxaU5WOWMrQTRqbkZNZFNOcEdZeVltQjQrb1ZlanFFY2l3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0Nzk3ODA0Nzg1OjEyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmZFZVAveHM3ZytvMFJZTiswUmcxNkJ1aGFNVHNCREwwNW93WFlzSnZIcy8ifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjE4NDgyMjYsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSXJPIn0=",
       "required": true
     },
     "OWNER_NAME": {
@@ -82,7 +82,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value": "",
+      "value": "1",
       "required": false
     },
     "PM_CHATBOT": {
